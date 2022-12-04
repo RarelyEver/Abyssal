@@ -403,4 +403,4 @@ async def on_command_error(ctx, error):
         await ctx.send(embed=embed)
 
 
-client.run("OTM4NTUyNjQwNTkyMjgxNjgx.Yfr9Qg.1wcpojHjnZAP7k-QbM6qQ68IakU")
+client.run(TOKEN)
